@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Abdelrhman Eladawy and I'm an Embedded Systems Engineer & Digital Twin Developer, from Cairo, Egypt 🇪🇬</p>
+<p align="left">My name is Abdelrhman Eladawy and I'm an Embedded Systems Engineer & Digital Twin Developer at 4DT.io, from Giza, Egypt 🇪🇬</p>
 
 ###
 
